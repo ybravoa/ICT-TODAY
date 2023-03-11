@@ -1,13 +1,13 @@
-﻿Nombre_Proyecto,Requisitos,Presupuesto,Cooperación del cliente,Calendario de instalación,Riesgos Técnicos,Riesgos de Gestión
+﻿Nombre_Proyecto,Requisitos,Presupuesto,Cooperación del cliente,Calendario de instalación,Riesgos Técnicos,Riesgos de Proyecto
 Enfoque_Waterfall_min,1,1,1,1,1,1
 Enfoque_Waterfall_max,2,2,2,2,2,2
 Enfoque_Agile_min,2,2,2,2,2,2
 Enfoque_Agile_max,4,4,4,4,4,4
 Enfoque_Hibrido_min,2,2,2,2,2,2
 Enfoque_Hibrido_max,3,3,3,3,3,3
-Proy1,2,1,2,2,2,1
-Proy2,3,3,2,3,1,4
-Proy3,2,3,2,3,3,3
+Fase: Estrategia,4,3,4,4,3,3
+Fase: Diseño,3,2,3,4,3,2
+Fase: Instalación,2,2,3,2,3,1
 Proy4,2,2,2,2,2,2
 Proy5,1,2,1,2,1,1
 Proy6,4,4,3,2,2,3
