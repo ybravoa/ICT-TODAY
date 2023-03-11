@@ -1,7 +1,7 @@
 ﻿Nombre_Proyecto,Requisitos,Presupuesto,Cooperación del cliente,Calendario,Riesgos Técnicos,Riesgos de Proyecto
 Enfoque_Waterfall_min,1,1,1,1,1,1
 Enfoque_Waterfall_max,2,2,2,2,2,2
-Enfoque_Agile_min,2,2,2,2,2,2
+Enfoque_Agile_min,3,3,3,3,3,3
 Enfoque_Agile_max,4,4,4,4,4,4
 Enfoque_Hibrido_min,2,2,2,2,2,2
 Enfoque_Hibrido_max,3,3,3,3,3,3
