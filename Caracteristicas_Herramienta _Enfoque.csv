@@ -1,10 +1,10 @@
-﻿Nombre_Proyecto,Requisitos,Presupuesto,Cooperación del cliente,Calendario,Riesgos Técnicos,Riesgos de Proyecto
-Enfoque_Waterfall_min,1,1,1,1,1,1
-Enfoque_Waterfall_max,2,2,2,2,2,2
-Enfoque_Agile_min,3,3,3,3,3,3
-Enfoque_Agile_max,4,4,4,4,4,4
-Fase: Especificaciones del Sistema,3,3,4,2,3,3
-Fase: Propuesta del Diseño,3,3,3,2,3,2
-Fase: Diseño Funcional,3,3,3,2,3,2
-Fase: Construcción ,2,2,2,2,2,2
-Fase: Operación,1,2,3,2,3,2
+﻿Name,Requirements,Budget,Costumer cooperation,Calendar,Technical Risks,Project Risks
+Approach_Waterfall_min,1,1,1,1,1,1
+Approach_Waterfall_max,2,2,2,2,2,2
+Approach_Agile_min,3,3,3,3,3,3
+Approach_Agile_max,4,4,4,4,4,4
+Phase: System Specifications,3,3,4,2,3,3
+Phase: Design proposal,3,3,3,2,3,2
+Phase: Functional design,3,3,3,2,3,2
+Phase: Construction,2,2,2,2,2,2
+Phase: Operation,1,2,3,2,3,2
