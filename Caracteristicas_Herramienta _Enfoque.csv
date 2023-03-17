@@ -3,15 +3,9 @@ Enfoque_Waterfall_min,1,1,1,1,1,1
 Enfoque_Waterfall_max,2,2,2,2,2,2
 Enfoque_Agile_min,3,3,3,3,3,3
 Enfoque_Agile_max,4,4,4,4,4,4
-Enfoque_Hibrido_min,2,2,2,2,2,2
-Enfoque_Hibrido_max,3,3,3,3,3,3
 Fase: Especificaciones del Sistema,3,3,4,2,3,3
 Fase: Propuesta del Diseño,3,3,3,2,3,2
 Fase: Diseño Funcional,3,3,3,2,3,2
 Fase: Construcción ,2,2,2,2,2,2
 Fase: Operación,1,2,3,2,3,2
-Proy6,1,2,3,2,3,2
-Proy7,1,2,3,2,3,2
-Proy8,1,2,3,2,3,2
-Proy9,1,2,3,2,3,2
-Proy10,1,2,3,2,3,2
+,,,,,,
