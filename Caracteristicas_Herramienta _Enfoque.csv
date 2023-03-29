@@ -1,10 +1,10 @@
-﻿Name,Requirements,Budget,Costumer cooperation,Calendar,Technical Risks,Project Risks
+﻿Name,Requirements,Budget,Costumer cooperation,Calendar,Technical Risks,Product Quality
 Approach_Waterfall_min,1,1,1,1,1,1
 Approach_Waterfall_max,2,2,2,2,3,3
 Approach_Agile_min,2,3,4,3,2,2
 Approach_Agile_max,4,4,4,4,4,4
 Phase: System Specifications,3,3,4,2,3,3
-Phase: Design proposal,3,3,3,2,3,2
+Phase: Design proposal,3,3,3,2,3,3
 Phase: Functional design,3,3,3,2,3,2
 Phase: Construction,2,2,2,2,2,2
-Phase: Operation,1,2,3,2,3,2
+Phase: Operation,1,2,3,2,3,1
